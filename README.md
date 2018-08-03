@@ -19,9 +19,6 @@ studied were the following: **directors**, **writers**, **producers**,
 **sound teams**, **music teams**, **art teams**, **makeup teams** and
 **costume teams**.
 
-The whole code to reproduce the following results is available on
-[`GitHub`](https://github.com/MangoTheCat/Gender-diversity-series-industry).
-
 Data Frame Creation - Web Scraping
 ----------------------------------
 
